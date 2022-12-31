@@ -1,0 +1,33 @@
+
+.my-color{
+    color: #E76F51;
+}
+.first-part{
+    background: #264653;
+}
+/* Bike part  */
+.bike{
+    filter: grayscale(100%);
+}
+/* card part  */
+.card-img-top {
+    padding: 40px 35px;
+}
+.fill{
+    color: #E76F51;
+}
+.empty{
+    color: #E76F51;
+}
+/* bonus part  */
+.my-bike{
+    display: block;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
